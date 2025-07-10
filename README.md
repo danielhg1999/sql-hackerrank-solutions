@@ -11,3 +11,6 @@ It is part of my personal growth and technical training in databases.
 ## Structure
 Each folder contains challenges grouped by topic.
 Each file has the name of the challenge and the SQL query inside.
+
+## Language
+Oracle
